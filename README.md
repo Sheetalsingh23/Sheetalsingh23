@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheetal Singh</h1>
-<h3 align="center">Learner forever!!</h3>
+<h3 align="center">Hello World, both life and coding began with it😃.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheetalsingh23&label=Profile%20views&color=0e75b6&style=flat" alt="sheetalsingh23" /> </p>
 
