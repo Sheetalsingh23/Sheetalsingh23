@@ -11,9 +11,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sheetaldsingh](https://medium.com/@sheetaldsingh)
 
-- 📫 How to reach me **sheetalistic@gmail.com**
-
-- ⚡ Fun fact **I am literature geek!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
